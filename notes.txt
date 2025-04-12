@@ -1,0 +1,4 @@
+extra functionality
+
+    matchup finder : search for specific matches where x champ vs y champ in botlane etc
+                     summoner name vs summoner name 
